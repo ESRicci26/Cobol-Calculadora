@@ -19,8 +19,6 @@ Uma calculadora desenvolvida em COBOL que oferece funcionalidades para operaçõ
 
 Este projeto é uma implementação de uma calculadora em linguagem COBOL, desenvolvida para demonstrar conceitos fundamentais da linguagem como estruturas de dados, processamento de expressões matemáticas e interface com o usuário via terminal.
 
-A calculadora foi originalmente baseada em uma versão Java Swing e adaptada para COBOL, mantendo as principais funcionalidades de cálculo.
-
 ## ✨ Funcionalidades
 
 - **Operações Básicas**: Adição (+), Subtração (-), Multiplicação (*), Divisão (/)
